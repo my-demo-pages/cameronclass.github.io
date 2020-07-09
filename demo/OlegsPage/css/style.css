@@ -7,8 +7,7 @@
 
 @font-face {
   font-family: "soft";
-  src: url("../fonts/soft-Bold.woff2") format("woff2"),
-    url("../fonts/soft-Bold.woff") format("woff");
+  src: url("../fonts/soft-Bold.woff2") format("woff2"), url("../fonts/soft-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
@@ -184,13 +183,7 @@ button {
   font-size: 16px;
   line-height: 16px;
   background: -o-linear-gradient(top, #ffffff 0%, #cccccc 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#ffffff),
-    to(#cccccc)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#cccccc));
   background: linear-gradient(180deg, #ffffff 0%, #cccccc 100%);
   -webkit-box-shadow: 2px 3px 0px #303141;
   box-shadow: 2px 3px 0px #303141;
@@ -227,13 +220,7 @@ button {
 
 .possibility {
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
   border-radius: 20px;
   height: 230px;
@@ -519,23 +506,9 @@ button {
 .footer ul li a {
   color: white;
   background: rgb(48, 49, 64);
-  background: -o-linear-gradient(
-    top,
-    rgba(48, 49, 64, 1) 0%,
-    rgba(38, 39, 56, 1) 100%
-  );
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(rgba(48, 49, 64, 1)),
-    to(rgba(38, 39, 56, 1))
-  );
-  background: linear-gradient(
-    180deg,
-    rgba(48, 49, 64, 1) 0%,
-    rgba(38, 39, 56, 1) 100%
-  );
+  background: -o-linear-gradient(top, rgba(48, 49, 64, 1) 0%, rgba(38, 39, 56, 1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(48, 49, 64, 1)), to(rgba(38, 39, 56, 1)));
+  background: linear-gradient(180deg, rgba(48, 49, 64, 1) 0%, rgba(38, 39, 56, 1) 100%);
   -webkit-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
@@ -844,13 +817,7 @@ button {
   line-height: 19px;
   letter-spacing: 0.02em;
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
 }
 
@@ -879,13 +846,7 @@ button {
 
 .fixed-menu-others {
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
 }
 
@@ -993,13 +954,7 @@ button {
 
 .buy-modal__price {
   background: -o-linear-gradient(top, #354d9f 0%, #519dd7 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#354d9f),
-    to(#519dd7)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#354d9f), to(#519dd7));
   background: linear-gradient(180deg, #354d9f 0%, #519dd7 100%);
   border-radius: 2px;
   margin-bottom: 16px;
@@ -1047,13 +1002,7 @@ button {
 
 .choose-mesenger .buy-modal__price {
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
 }
 
@@ -1085,10 +1034,7 @@ button {
   bottom: 26px;
 }
 
-.choose-mesenger
-  .swiper-container-horizontal
-  > .swiper-pagination-bullets
-  .swiper-pagination-bullet {
+.choose-mesenger .swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
   margin: 0 2px;
 }
 
@@ -1113,13 +1059,7 @@ button {
 
 .create__namek-btn {
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
   border-radius: 2px;
   height: 122px;
@@ -1344,13 +1284,7 @@ button {
 .contact-btn {
   display: block;
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
   border-radius: 2px;
   font-weight: 300;
@@ -1610,13 +1544,7 @@ button {
 
 .catalog-list__item {
   background: -o-linear-gradient(top, #519dd7 0%, #354d9f 100%);
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#519dd7),
-    to(#354d9f)
-  );
+  background: -webkit-gradient(linear, left top, left bottom, from(#519dd7), to(#354d9f));
   background: linear-gradient(180deg, #519dd7 0%, #354d9f 100%);
   border-radius: 2px;
   width: 100%;
@@ -1805,8 +1733,7 @@ button {
 @media (min-width: 400px) and (max-width: 700px) {
 }
 /* Iphone 6 7 8 */
-@media (min-width: 320px) and (max-width: 370px),
-  (min-height: 400px) and (max-height: 700px) {
+@media (min-height: 400px) and (max-height: 700px) {
   .buy-modal__price {
     height: 215px;
   }
@@ -1917,10 +1844,7 @@ button {
   .button-start__footer_title {
     font-size: 14px;
   }
-  .button-start:first-child
-    .button-start__footer
-    .button-start__footer_img
-    img {
+  .button-start:first-child .button-start__footer .button-start__footer_img img {
     width: 28px;
     height: 28px;
   }
